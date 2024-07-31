@@ -6,7 +6,6 @@ import * as issues from './issues';
 import * as highlightedCta from './highlighted-cta';
 import * as deepDiveTopic from './deep-dive-topic';
 import * as campaign from './campaign';
-import * as action from './action';
 
 export default [
   sideImgTextCta,
@@ -19,5 +18,4 @@ export default [
   // layouts.
   deepDiveTopic,
   campaign,
-  action,
 ];
